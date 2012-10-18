@@ -1,0 +1,18 @@
+[
+ {
+ "title":"红楼梦",
+ "page":5085,
+ "chapter":120,
+ "image_big":"http://127.0.0.1/~sun/books/fav/images/1.png",
+ "file":"http://127.0.0.1/~sun/books/fav/1.txt",
+ "description":"这是一部红楼梦",
+ "comment":"评论",
+ "vote":{"rating":"4星级",
+ "rating_count":"评论数",
+ "authors":[
+            {"author_name":"曹雪芹"},
+            {"author_name":"高愕"}
+            ]
+        }
+ }
+]
